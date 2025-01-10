@@ -1,17 +1,14 @@
-<h1> [Your Project Title] </h1>
+<h1> Telco Churn Analysis </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **Predicting Customer Churn**.
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- Objective 1: Predicting whether a customer would churn or not
+- Objective 2: Reducing loss caused by replacing churned customers
 
 ## 2. Data Sources
 - [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
