@@ -1,7 +1,4 @@
-if __name__ == '__main__':
-    import os
-    os.system('streamlit run streamlit_app.py')
-
+import os
 import streamlit as st
 import pandas as pd
 import pickle
